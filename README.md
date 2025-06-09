@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá 😄, eu sou o Lucas Emmanuel, programador e estudante de computação!
 
-<!--
-**DevLuquinha/DevLuquinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Trabalho no desenvolvimento de soluções para o setor de engenharia civil. 
 
-Here are some ideas to get you started:
+📚 Sou Técnico em Computação Gráfica e curso Análise e Desenvolvimento de Sistemas no IFTM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Minha Stack principal é C# com o .NET para aplicações desktop. Além disso, possuo experiência em desenvolvimento de jogos
+com o Unity, automações com python e criação de API's com ASP.NET Core.
+
+---
+
+## 🚀 Minhas Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,html,css,js,postman,docker,firebase,visualstudio,vscode,unity,blender)](https://skillicons.dev)
+
+---
