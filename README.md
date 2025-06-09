@@ -1,4 +1,4 @@
-## Olá 😄, eu sou o Lucas Emmanuel, programador e estudante de computação!
+## Olá Mundo😄, eu sou o Lucas Emmanuel! Sou programador e estudante de computação!
 
 💼 Trabalho no desenvolvimento de soluções para o setor de engenharia civil. 
 
