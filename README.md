@@ -11,6 +11,6 @@ com o Unity, automações com python e criação de API's com ASP.NET Core.
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,html,css,js,postman,docker,firebase,visualstudio,vscode,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,html,css,js,postman,docker,firebase,gcp,visualstudio,vscode,unity,blender)](https://skillicons.dev)
 
 ---
