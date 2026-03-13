@@ -1,51 +1,51 @@
-## 👋 Hello, I'm Lucas Emmanuel!  
-I'm a software developer and Computer Science student.
+# 👋 Hi, I'm Lucas Emmanuel
 
-💼 I work on building solutions for the **civil engineering** sector.
+💻 **Backend Developer | .NET Ecosystem & Civil Engineering Solutions**
 
-🎓 I hold a technical degree in **Graphic Computing** and I'm currently studying **Systems Analysis and Development** at IFTM.
+I’m a software developer focused on building robust backend systems, scalable APIs, and engineering tools. Most of my professional work involves developing software solutions that integrate with platforms like Revit and AutoCAD.
 
-💬 My main stack is **C# with .NET** for desktop applications. I also have experience with:
-- **API development** using ASP.NET Core  
-- **Plugin development** for Revit and AutoCAD  
-- **Game development** using Unity  
-- **Automation** with Python 
+* ⚙️ **Current Focus:** Building scalable APIs with ASP.NET Core, developing commercial Revit plugins and cloud integration with GCP.
+* 🌐/🐍 **Web & Automation:** Building modern web apps (Next.js, TypeScript, Tailwind) and using Python for data/automation.
+* 🎓 **Academic & Fundamentals:** Data Structures (C), Object-Oriented Programming (Java), and Mobile (React Native).
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🧰 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,js,html,css,postman,git,docker,firebase,gcp,visualstudio,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,java,c,ts,html,css,js,nextjs,tailwind,git,docker,postman,visualstudio)](https://skillicons.dev)
+
+**Frameworks, APIs & Concepts:** `.NET Framework` `.NET Core` `ASP.NET Core` `Entity Framework` `WPF (MVVM)` `Revit API` `AutoCAD API` `REST APIs` `Docker` `Pandas` `GCP`
 
 ---
-**Other Tools & Frameworks:**
-.NET Framework, .NET Core, ASP.NET Core, Entity Framework, Revit API, AutoCAD API, WPF (MVVM), REST APIs.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluquinha&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devluquinha&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true"/>
+</p>
+
+---
 
 <details>
-  <summary>🇧🇷 Versão em Português</summary>
+<summary>🇧🇷 Versão em Português</summary>
 
-## 👋 Olá, eu sou o Lucas Emmanuel!  
-Sou programador e estudante de computação.
+# 👋 Olá, eu sou Lucas Emmanuel
 
-💼 Trabalho no desenvolvimento de soluções para o setor de **engenharia civil**.
+💻 **Desenvolvedor Backend | Ecossistema .NET**
 
-🎓 Sou Técnico em **Computação Gráfica** e atualmente curso **Análise e Desenvolvimento de Sistemas** no IFTM.
+Sou desenvolvedor focado na construção de APIs escaláveis, sistemas backend e ferramentas de engenharia. Grande parte do meu trabalho envolve o desenvolvimento de soluções que se integram com plataformas utilizadas na engenharia civil, como Revit e AutoCAD.
 
-💬 Minha stack principal é **C# com .NET** para aplicações desktop. Além disso, tenho experiência com:
-- **Criação de APIs** com ASP.NET Core  
-- **Desenvolvimento de plugins** para Revit e AutoCAD  
-- **Desenvolvimento de jogos** usando Unity  
-- **Automação** com Python   
+* ⚙️ **Foco Atual:** Construção de APIs escaláveis com ASP.NET Core, desenvolvimento de plugins comerciais para Revit e integração em nuvem com GCP.
+* 🌐/🐍 **Web & Automação:** Desenvolvimento web moderno (Next.js, TypeScript, Tailwind) e scripts/análise de dados com Python.
+* 🎓 **Acadêmico & Fundamentos:** Estruturas de Dados (C), POO (Java) e Mobile (React Native).
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🧰 Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,py,js,html,css,postman,git,docker,firebase,gcp,visualstudio,unity,blender)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,dotnet,py,java,c,ts,html,css,js,nextjs,tailwind,git,docker,postman,visualstudio)](https://skillicons.dev)
 
----
-**Outras technologias**  
-.NET Framework, .NET Core, ASP.NET Core, Entity Framework, Revit API, AutoCAD API, WPF (MVVM), REST APIs.
+**Frameworks, APIs e Conceitos:** `.NET Framework` `.NET Core` `ASP.NET Core` `Entity Framework` `WPF (MVVM)` `Revit API` `AutoCAD API` `APIs REST` `Docker` `Pandas` `GCP`
+
 </details>
-
-
