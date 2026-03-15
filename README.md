@@ -5,7 +5,7 @@
 I’m a software developer focused on building robust backend systems, scalable APIs, and engineering tools. Most of my professional work involves developing software solutions that integrate with platforms like Revit and AutoCAD.
 
 * ⚙️ **Current Focus:** Building scalable APIs with ASP.NET Core, developing commercial Revit plugins and cloud integration with GCP.
-* 🌐/🐍 **Web & Automation:** Building modern web apps (Next.js, TypeScript, Tailwind) and using Python for data/automation.
+* 🌐 **Web & Automation:** Building modern web apps (Next.js, TypeScript, Tailwind) and using Python for data/automation.
 * 🎓 **Academic & Fundamentals:** Data Structures (C), Object-Oriented Programming (Java), and Mobile (React Native).
 
 ---
