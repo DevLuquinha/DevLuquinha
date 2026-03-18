@@ -18,26 +18,17 @@ I’m a software developer focused on building robust backend systems, scalable 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluquinha&layout=compact&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devluquinha&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true"/>
-</p>
-
----
-
 <details>
 <summary>🇧🇷 Versão em Português</summary>
 
 # 👋 Olá, eu sou Lucas Emmanuel
 
-💻 **Desenvolvedor Backend | Ecossistema .NET**
+💻 **Desenvolvedor Backend | Ecossistema .NET & Soluções para Engenharia Civil**
 
 Sou desenvolvedor focado na construção de APIs escaláveis, sistemas backend e ferramentas de engenharia. Grande parte do meu trabalho envolve o desenvolvimento de soluções que se integram com plataformas utilizadas na engenharia civil, como Revit e AutoCAD.
 
 * ⚙️ **Foco Atual:** Construção de APIs escaláveis com ASP.NET Core, desenvolvimento de plugins comerciais para Revit e integração em nuvem com GCP.
-* 🌐/🐍 **Web & Automação:** Desenvolvimento web moderno (Next.js, TypeScript, Tailwind) e scripts/análise de dados com Python.
+* 🌐 **Web & Automação:** Desenvolvimento web moderno (Next.js, TypeScript, Tailwind) e scripts/análise de dados com Python.
 * 🎓 **Acadêmico & Fundamentos:** Estruturas de Dados (C), POO (Java) e Mobile (React Native).
 
 ---
